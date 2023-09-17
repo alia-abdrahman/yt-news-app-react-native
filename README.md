@@ -9,4 +9,4 @@
 ![simulator screenshot](image.png)
 
 <img width="200" heigh="200" alt="image" source ="image.png">
-<img src="image-1.png" width=800>
+<img src="image-1.png" width=200>
