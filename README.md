@@ -5,4 +5,6 @@
     2. enter npm start
     3. verify a news app automatically open from iOS simulator
 
+🎥 https://www.youtube.com/watch?v=pwZGs-4lJbM&t=4394s
+
 <img src="image-1.png" width=400>
