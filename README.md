@@ -4,3 +4,6 @@
     1. open code editor
     2. enter npm start
     3. verify a news app automatically open from iOS simulator
+
+
+![simulator screenshot](image.png)
