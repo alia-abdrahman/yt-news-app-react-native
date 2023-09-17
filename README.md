@@ -7,3 +7,5 @@
 
 
 ![simulator screenshot](image.png)
+
+<img width="200" heigh="200" alt="image" source ="image.png">
